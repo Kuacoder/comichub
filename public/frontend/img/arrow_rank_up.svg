@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="33" viewBox="0 0 27 33">
+    <g id="Polygon_1" data-name="Polygon 1" fill="#fa9144">
+      <path d="M 25.82326316833496 13.5 L 1.176737546920776 13.5 L 13.5 0.7203203439712524 L 25.82326316833496 13.5 Z" stroke="none"/>
+      <path d="M 13.5 1.440640449523926 L 2.353475570678711 13 L 24.64652442932129 13 L 13.5 1.440640449523926 M 13.5 0 L 27 14 L 0 14 L 13.5 0 Z" stroke="none" fill="#fa9144"/>
+    </g>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(7 13)" fill="#fa9144" stroke="#fa9144" stroke-width="1">
+      <rect width="13" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="12" height="19" fill="none"/>
+    </g>
+  </svg>

@@ -1,0 +1,17 @@
+$(document).ready(function(){
+    $(".best-sale-details2_title2_button1").hover(function(){
+        $('.best-sale-details2_table_list1').removeClass('hidden');
+        $('.best-sale-details2_table_list2').addClass('hidden');
+        $('.best-sale-details2_table_list3').addClass('hidden');
+    });
+    $(".best-sale-details2_title2_button2").hover(function(){
+        $('.best-sale-details2_table_list1').addClass('hidden');
+        $('.best-sale-details2_table_list2').removeClass('hidden');
+        $('.best-sale-details2_table_list3').addClass('hidden');
+    });
+    $(".best-sale-details2_title2_button3").hover(function(){
+        $('.best-sale-details2_table_list1').addClass('hidden');
+        $('.best-sale-details2_table_list2').addClass('hidden');
+        $('.best-sale-details2_table_list3').removeClass('hidden');
+    });
+});
